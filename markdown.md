@@ -7,4 +7,6 @@
 >'önnemli'
 '''wow'''
 [youtube](https://www.youtube.com)
-:+1:
+\:+1:
+\:-1:
+🈷️
